@@ -1,0 +1,71 @@
+
+/* .first{
+    background-color: lightblue;
+    padding: 20%;
+    width: 30%;
+    
+    
+    
+} */
+
+/* .wrapper{
+    background: blue;
+    
+}  */
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 40rem 40rem;
+
+    
+    
+}
+.firstcontainer{
+    background-color: #1DA1F2;
+    height: 600px;
+
+}
+.secondcontainer{
+    background-color:#14141a ;
+} 
+.input{
+    background-color:#657786; 
+    height: 50px;
+    width: 13rem;
+    margin-left: 10%;
+    margin-top: 3%; 
+    border-bottom: solid #e1e8ed;
+
+}
+
+.password{
+    background-color:#657786; 
+    height: 50px;
+    width: 13rem;
+    margin-left: 1%;
+    margin-top: 3%;
+    border-bottom: solid #e1e8ed;
+}
+
+.lin{
+    margin-left: 50%;
+    text-decoration: none;
+}
+.login{
+    text-decoration: none;
+    background-color:#aab8c2;
+    border-color: blue;
+    border-radius: 5px;
+    height: 2rem;
+}
+.text{
+    color: white;
+    margin-left: 20%;
+    margin-top: 30%;
+}
+.open{
+    margin-left: 20%;
+    width: 22rem;
+    height: 40px;
+    border-radius: 20px;
+}
